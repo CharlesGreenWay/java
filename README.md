@@ -1,2 +1,3 @@
 # java
-Java snippets
+A collection of java language snippets.
+
